@@ -3,7 +3,7 @@
 LoremPumsen
 
 ## Repositorios
-**[Repositorio Backend](https://github.com/jsliscano/Scotia-Tech-Call-Center-Backend)**
+**[Repositorio Backend](https://github.com/jsliscano/Scotia-Tech-Teacher-Form-Backend)**
 
 ## Herramientas de Gestión de Proyectos
 **[Trello](https://trello.com/invite/b/66c913d5991331928ae69015/ATTIeedd7b25ab7b36abb40fcb8711153adaEC126369/cronograma)**
