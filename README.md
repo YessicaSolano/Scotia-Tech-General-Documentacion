@@ -11,7 +11,7 @@ LoremPumsen
 ## Documentación
 **[Documentación General](https://drive.google.com/drive/folders/14kjL62D46ODqVJ9jJHh4lrKOPw4EoBul?usp=sharing)**
 
-**[Journey](https://drive.google.com/drive/folders/1HAFrCPatqQAAgvqkEdDHMYqnxxfLytbj?usp=sharing)**
+**[Actividades](https://drive.google.com/drive/folders/1HAFrCPatqQAAgvqkEdDHMYqnxxfLytbj?usp=sharing)**
 
 **[Reuniones](https://drive.google.com/drive/folders/18Pg-HU4y-5PxmXnJW9aVK-vtqEzoT-kT?usp=sharing)**
 
