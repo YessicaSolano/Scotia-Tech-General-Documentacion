@@ -1,6 +1,6 @@
 # ApiRestFull-ScotiaBank
 
-LoremPumsen
+Este repositorio ofrece una visión integral del proyecto, destacando enlaces clave hacia la documentación, otros repositorios, herramientas de gestión del proyecto y registros de reuniones. Además, proporciona recursos esenciales para la coordinación y el seguimiento efectivo de los avances del equipo.
 
 ## Repositorios
 **[Repositorio Backend](https://github.com/jsliscano/Scotia-Tech-Teacher-Form-Backend)**
