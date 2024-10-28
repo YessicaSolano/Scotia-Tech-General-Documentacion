@@ -9,6 +9,8 @@ Este repositorio ofrece una visión integral del proyecto, destacando enlaces cl
 **[Trello](https://trello.com/invite/b/66c913d5991331928ae69015/ATTIeedd7b25ab7b36abb40fcb8711153adaEC126369/cronograma)**
 
 ## Documentación
+Este repositorio contiene toda la información detallada y relevante sobre el proyecto, incluyendo documentación técnica, recursos de apoyo, y guías para facilitar su comprensión y desarrollo.
+
 **[Documentación General](https://drive.google.com/drive/folders/14kjL62D46ODqVJ9jJHh4lrKOPw4EoBul?usp=sharing)**
 
 **[Actividades](https://drive.google.com/drive/folders/1HAFrCPatqQAAgvqkEdDHMYqnxxfLytbj?usp=sharing)**
